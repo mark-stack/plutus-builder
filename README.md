@@ -1,6 +1,7 @@
 # Plutus Builder
 Plutus low-code Smart contract builder
-[Live Demo](⦁	https://plutus-builder.markevans.work/)
+
+[Live Demo](https://plutus-builder.markevans.work/)
 
 ## What it does
 * It's a low-code platform for creating Cardano smart contracts in Plutus language.
